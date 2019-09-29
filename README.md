@@ -1,5 +1,5 @@
 # LogicalSolvingRekruitasiDaspro-TimHore
-![image](https://drive.google.com/uc?export=view&id=
+
 
 ##Faktor Persekutuan
 ![image](https://drive.google.com/uc?export=view&id=1gEcxgR-98exwieXpzOFijl1jG80zKNd8)
